@@ -1,3 +1,9 @@
+import './styles.css';
+
 export const App = () => {
-  return <div>React App starter Template</div>;
+  return (
+    <div>
+      <h1>React App starter Template</h1>
+    </div>
+  );
 };
