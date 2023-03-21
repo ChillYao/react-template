@@ -4,6 +4,7 @@ import LOGO from './react.svg';
 import { ClickCounter } from './ClickCouter';
 
 export const App = () => {
+  const num = 0;
   return (
     <>
       <div>
